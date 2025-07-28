@@ -3,8 +3,8 @@ This repository implements IVMR suite which is the datasets and codes of the pap
 
 
 ## Dataset: IVMR-D
-The dataset IVMR-D is in the directory IVMR_Suite/data
-Before you use the dataset, you need unzip the file to the directory ./IVMR_Suite/data
+The dataset IVMR-D is in the directory IVMR_Suite/data.
+Before you use the dataset, you need unzip the file to the directory ./IVMR_Suite/data.
 ```
 $ cd ./IVMR_Suite/data
 $ unzip ecs_data.zip
@@ -22,7 +22,7 @@ The algorithms are in the directories:
     * Imitation Learning (IL): ./IVMR_Suite/ecs_imitation
     * Reinforcement Learning (RL): ./IVMR_Suite/ecs_rl (implemented based on the repository https://github.com/bytedance/DRL-based-VM-Rescheduling)
 
-Before you run the algorithms, you need pip install the packages in the requirements.txt
+Before you run the algorithms, you need pip install the packages in the requirements.txt.
 
 
 ## Citation
