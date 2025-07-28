@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+*.pyc
+*.pyo
+
+nohup.out
+.DS_Store
+*.npy
+*.csv
+.idea
+data
+baselines
+venv
+wandb
+saved_model_weights
